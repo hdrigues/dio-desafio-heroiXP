@@ -44,3 +44,17 @@ for (i = 0; i < 12; i++) {
     console.log("O Herói de nome " + nomeHeroi + " está no nível " + nivel + " com "+ xp + "XP")
     xp +=1000
 }
+
+// **********SAIDA************
+// O Herói de nome Juao das Neves está no nível Ferro com 1XP
+// O Herói de nome Juao das Neves está no nível Bronze com 1001XP
+// O Herói de nome Juao das Neves está no nível Prata com 2001XP
+// O Herói de nome Juao das Neves está no nível Prata com 3001XP
+// O Herói de nome Juao das Neves está no nível Prata com 4001XP
+// O Herói de nome Juao das Neves está no nível Ouro com 5001XP
+// O Herói de nome Juao das Neves está no nível Ouro com 6001XP
+// O Herói de nome Juao das Neves está no nível Platina com 7001XP
+// O Herói de nome Juao das Neves está no nível Ascendente com 8001XP
+// O Herói de nome Juao das Neves está no nível Imortal com 9001XP
+// O Herói de nome Juao das Neves está no nível Radiante com 10001XP
+// O Herói de nome Juao das Neves está no nível Radiante com 11001XP
